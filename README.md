@@ -31,7 +31,7 @@ This project showcases the use of Jetpack Compose, the modern Android UI toolkit
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/banking-ui.git`
+1. Clone the repository: `git clone https://github.com/HK-Gupta/banking-ui.git`
 2. Open the project in Android Studio or your preferred IDE.
 3. Run the project on an emulator or a physical device.
 
